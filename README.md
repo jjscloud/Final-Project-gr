@@ -1,2 +1,2 @@
 # team371
-Team repository for comp 371
+Team repository for final Project
